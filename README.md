@@ -120,7 +120,7 @@ By focusing on these boroughs, we aim to develop targeted strategies that can me
     </a>
   </li>
   <li>
-    ChatGPT for data cleansing
+    #ChatGPT for data cleansing
   </li>
   <li>
     <a href="https://community.tableau.com/s/question/0D54T00000C5PhDSAV/combining-zipcode-data-and-link-it-to-neigbourhood-data" target="_blank">
